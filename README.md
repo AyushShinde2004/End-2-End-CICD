@@ -104,6 +104,6 @@ A fully automated CI/CD pipeline using Jenkins for a Java application, integrati
 
 ## 🙌 Credits
 
-Created by: `""`
+Credits to :  `"https://github.com/iam-veeramalla/Jenkins-Zero-To-Hero"`
 
 ---
